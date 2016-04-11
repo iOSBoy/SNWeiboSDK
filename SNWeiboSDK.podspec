@@ -5,6 +5,7 @@ Pod::Spec.new do |s|
     :type => "Copyright",
     :text => "新浪微博 版权所有."
   }
+  s.summary = "iOS微博SDK"
   s.source       = { :git => "https://github.com/iOSBoy/SNWeiboSDK.git", :tag => s.version.to_s }
   s.platform     = :ios, '6.0'
   s.requires_arc = false
