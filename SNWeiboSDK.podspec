@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "SNWeiboSDK"
-  s.version      = "3.1.3"
+  s.version      = "3.1.4"
   s.license = {
     :type => "Copyright",
     :text => "新浪微博 版权所有."
